@@ -1,3 +1,6 @@
+references:
+  - "https://en.wikipedia.org/wiki/Chevrolet_Suburban"
+
 generations:
   - name: "First Generation (as Suburban)"
     start_year: 1937
