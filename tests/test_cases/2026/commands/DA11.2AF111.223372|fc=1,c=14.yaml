@@ -1,0 +1,14 @@
+command_id: DA11.2AF111.223372|fc=1,c=14
+test_cases:
+- expected_values:
+    YUKONXL_PARTICULATE_MATTER_SNS_T: 40
+  response: 142AF111056233720190
+- expected_values:
+    YUKONXL_PARTICULATE_MATTER_SNS_T: 230
+  response: 142AF1110562337208FC
+- expected_values:
+    YUKONXL_PARTICULATE_MATTER_SNS_T: 256
+  response: 142AF111056233720A00
+- expected_values:
+    YUKONXL_PARTICULATE_MATTER_SNS_T: 763
+  response: 142AF111056233721DCE

@@ -1,0 +1,8 @@
+command_id: DA11.2AF111.2220F7|fc=1,c=14
+test_cases:
+- expected_values:
+    YUKONXL_DPF_AVG_DIST_BETWEEN_REGENS: 443
+  response: 142AF111056220F701BB
+- expected_values:
+    YUKONXL_DPF_AVG_DIST_BETWEEN_REGENS: 444
+  response: 142AF111056220F701BC

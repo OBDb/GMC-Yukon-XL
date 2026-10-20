@@ -1,0 +1,14 @@
+command_id: DA11.2AF111.22303A|fc=1,c=14
+test_cases:
+- expected_values:
+    YUKONXL_DPF_EGT_1: 90.1
+  response: 142AF1110562303A0515
+- expected_values:
+    YUKONXL_DPF_EGT_1: 241.5
+  response: 142AF1110562303A0AFF
+- expected_values:
+    YUKONXL_DPF_EGT_1: 241.8
+  response: 142AF1110562303A0B02
+- expected_values:
+    YUKONXL_DPF_EGT_1: 448.8
+  response: 142AF1110562303A1318

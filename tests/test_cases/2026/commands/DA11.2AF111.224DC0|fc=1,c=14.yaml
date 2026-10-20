@@ -1,0 +1,32 @@
+command_id: DA11.2AF111.224DC0|fc=1,c=14
+test_cases:
+- expected_values:
+    YUKONXL_EO_LIFE_REMAINING: 21.17647
+  response: 142AF11104624DC036
+- expected_values:
+    YUKONXL_EO_LIFE_REMAINING: 21.56863
+  response: 142AF11104624DC037
+- expected_values:
+    YUKONXL_EO_LIFE_REMAINING: 21.96078
+  response: 142AF11104624DC038
+- expected_values:
+    YUKONXL_EO_LIFE_REMAINING: 22.35294
+  response: 142AF11104624DC039
+- expected_values:
+    YUKONXL_EO_LIFE_REMAINING: 22.7451
+  response: 142AF11104624DC03A
+- expected_values:
+    YUKONXL_EO_LIFE_REMAINING: 96.86275
+  response: 142AF11104624DC0F7
+- expected_values:
+    YUKONXL_EO_LIFE_REMAINING: 97.2549
+  response: 142AF11104624DC0F8
+- expected_values:
+    YUKONXL_EO_LIFE_REMAINING: 97.64706
+  response: 142AF11104624DC0F9
+- expected_values:
+    YUKONXL_EO_LIFE_REMAINING: 98.03922
+  response: 142AF11104624DC0FA
+- expected_values:
+    YUKONXL_EO_LIFE_REMAINING: 98.43137
+  response: 142AF11104624DC0FB
