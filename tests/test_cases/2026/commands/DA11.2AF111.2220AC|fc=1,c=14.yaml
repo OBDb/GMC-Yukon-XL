@@ -1,0 +1,11 @@
+command_id: DA11.2AF111.2220AC|fc=1,c=14
+test_cases:
+- expected_values:
+    YUKONXL_FUEL_INJECTION_C1: 0
+  response: 142AF111056220AC0000
+- expected_values:
+    YUKONXL_FUEL_INJECTION_C1: 1.023
+  response: 142AF111056220AC03FF
+- expected_values:
+    YUKONXL_FUEL_INJECTION_C1: 2.908
+  response: 142AF111056220AC0B5C

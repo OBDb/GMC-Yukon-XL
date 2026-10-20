@@ -1,0 +1,11 @@
+command_id: DA11.2AF111.2234D8|fc=1,c=14
+test_cases:
+- expected_values:
+    YUKONXL_DPF_PRES: 0
+  response: 142AF111056234D80000
+- expected_values:
+    YUKONXL_DPF_PRES: 2.54
+  response: 142AF111056234D800FE
+- expected_values:
+    YUKONXL_DPF_PRES: 34.08
+  response: 142AF111056234D80D50

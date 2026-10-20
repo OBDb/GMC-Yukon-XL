@@ -1,0 +1,11 @@
+command_id: DA11.2AF111.223375|fc=1,c=14
+test_cases:
+- expected_values:
+    YUKONXL_DPF_REGEN_STS: 1
+  response: 142AF111056233750190
+- expected_values:
+    YUKONXL_DPF_REGEN_STS: 5
+  response: 142AF1110562337505FA
+- expected_values:
+    YUKONXL_DPF_REGEN_STS: 7
+  response: 142AF111056233750712

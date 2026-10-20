@@ -1,0 +1,11 @@
+command_id: DA11.22005E|fc=1,c=14,f=2021-
+test_cases:
+- expected_values:
+    YUKONXL_FUEL_RATE_DA11: 3.1
+  response: 142AF1110562005E003E
+- expected_values:
+    YUKONXL_FUEL_RATE_DA11: 3.15
+  response: 142AF1110562005E003F
+- expected_values:
+    YUKONXL_FUEL_RATE_DA11: 7.3
+  response: 142AF1110562005E0092
